@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/piskorzj/mqtt-sn-forwarder/issues"
   },
-  "homepage": "https://github.com/piskorzj/mqtt-sn-forwarder"
+  "homepage": "https://github.com/piskorzj/mqtt-sn-forwarder",
+  "dependencies": {}
 }
