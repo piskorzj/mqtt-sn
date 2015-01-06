@@ -1,4 +1,4 @@
-mqtt-sn
+mqtt-sn-forwarder
 =======
 
-MQTT-SN implementation for NodeJS
+MQTT-SN forwarder implementation for NodeJS

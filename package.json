@@ -1,26 +1,27 @@
 {
-  "name": "mqtt-sn",
+  "name": "mqtt-sn-forwarder",
   "version": "0.0.1",
-  "description": "MQTT-SN implementation for NodeJS.",
+  "description": "MQTT-SN forwarder implementation for NodeJS.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/piskorzj/mqtt-sn.git"
+    "url": "https://github.com/piskorzj/mqtt-sn-forwarder.git"
   },
   "keywords": [
     "MQTT",
     "MQTT-SN",
     "message",
     "queue",
-    "sensors"
+    "sensors",
+    "forwarder"
   ],
   "author": "Jakub Piskorz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/piskorzj/mqtt-sn/issues"
+    "url": "https://github.com/piskorzj/mqtt-sn-forwarder/issues"
   },
-  "homepage": "https://github.com/piskorzj/mqtt-sn"
+  "homepage": "https://github.com/piskorzj/mqtt-sn-forwarder"
 }
