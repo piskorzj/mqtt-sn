@@ -1,0 +1,26 @@
+{
+  "name": "mqtt-sn",
+  "version": "0.0.1",
+  "description": "MQTT-SN implementation for NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piskorzj/mqtt-sn.git"
+  },
+  "keywords": [
+    "MQTT",
+    "MQTT-SN",
+    "message",
+    "queue",
+    "sensors"
+  ],
+  "author": "Jakub Piskorz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piskorzj/mqtt-sn/issues"
+  },
+  "homepage": "https://github.com/piskorzj/mqtt-sn"
+}
