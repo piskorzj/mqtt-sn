@@ -12,6 +12,6 @@ MQTT-SN forwarder implementation for NodeJS
 * send
 * close
 * events
-** message
-** close
-** error
+  * message
+  * close
+  * error
