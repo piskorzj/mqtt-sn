@@ -5,3 +5,13 @@ mqtt-sn-forwarder
 
 
 MQTT-SN forwarder implementation for NodeJS
+
+
+#API
+
+* send
+* close
+* events
+** message
+** close
+** error
